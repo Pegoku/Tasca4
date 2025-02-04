@@ -7,4 +7,4 @@ JOIN
 JOIN 
     Empleat ON Tiquet.EmpleatID = Empleat.EmpleatID
 WHERE 
-    Empleat.Nom LIKE 'O%' AND Tiquet.DataHoraVenda < CURDATE();
+    Empleat.Nom LIKE 'A%' AND Tiquet.DataHoraVenda < CURDATE();
