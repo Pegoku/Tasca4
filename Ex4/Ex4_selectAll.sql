@@ -1,0 +1,6 @@
+USE Ex4;
+SHOW TABLES;
+SELECT * FROM Client;
+SELECT * FROM Polisa;
+SELECT * FROM TipusPolisa;
+SELECT * FROM Venedor;

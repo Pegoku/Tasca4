@@ -1,0 +1,2 @@
+idPolisa,NumPolisa,Client_idClient,Venedor_idVenedor,TipusPolisa_idTipusPolisa,PreuAnual,TipusPagament,DataDeContractacio,IniciVigencia,FiVigencia,NumSS
+1,2451,2,2,2,500,Anual,21/01/2025,1/02/2025,31/01/2026,123456
